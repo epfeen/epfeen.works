@@ -1,0 +1,35 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description | xml_escape }}"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="shortcut icon" href="/images/logo-64.svg"/>
+  <link href='/css/main.css' rel='stylesheet'/>
+</head>
+<body>
+<section>
+  <header>
+    <p>
+      <a href="/index.html">
+        <img src="images/logo.svg" alt="logo" class="logo"/>
+      </a>
+    </p>
+  </header>
+  <article>
+    <p>
+      {{ content }}
+    </p>
+  </article>
+  <footer>
+    <p>
+      &copy; Artem Starovoitov, 2020
+    </p>
+  </footer>
+</section>
+</body>
+</html>
