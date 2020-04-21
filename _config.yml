@@ -7,7 +7,7 @@ url: "https://epfeen.works"
 markdown: kramdown
 author:
   name: "Artem Starovoitov"
-  email: yegor256@gmail.com
+  email: epfeen@gmail.com
 encoding: utf-8
 timezone: Europe/Moscow
 permalink: :year-:month-:day-:title.html
