@@ -10,18 +10,17 @@ description: |
 
 Ruby on Rails developer
 
-List of my projects: [Rocketwash](#rw) 
+List of companyies: [Rubyroid Labs](#rubyroid-labs) 
 
-## Rocketwash # {#rw}
 
-[Project](https://www.rocketwash.me/)
+
+## Rubyroid Labs # {#rubyroid-labs}
+[Rubyroid Labs](https://rubyroidlabs.com/)
+
+From: September 2019
+
+To: April 2020
 
 Title - Ruby on Rails developer.
 
-Job - develop some features for business. 
-
-
-
-
-
-
+I was developing a project for car washes.
