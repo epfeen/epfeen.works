@@ -10,10 +10,6 @@ description: |
 
 Ruby on Rails developer
 
-List of companyies: [Rubyroid Labs](#rubyroid-labs) 
-
-
-
 ## Rubyroid Labs # {#rubyroid-labs}
 [Rubyroid Labs](https://rubyroidlabs.com/)
 
@@ -23,4 +19,9 @@ To: April 2020
 
 Title - Ruby on Rails developer.
 
-I was developing a project for car washes.
+I developed project for car washes.
+My responsibilities:
+- API development;
+- Adding new functionality;
+- Was engaged in optimization and fixed bugs.
+

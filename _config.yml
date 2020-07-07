@@ -2,7 +2,6 @@ title: My works
 email: epfeen@gmail.com
 description: >
   My site
-baseurl: ""
 url: "https://epfeen.works"
 markdown: kramdown
 author:
@@ -19,11 +18,6 @@ exclude:
 gems:
   - jekyll-feed
   - jekyll-sitemap
-
-feed:
-  title: Works
-  subtitle: My works
-  path: rss.xml
 
 sass:
   style: compressed
